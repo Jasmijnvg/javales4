@@ -4,6 +4,7 @@ public class SuperPokemon {
     private String attack;
     private String sound;
 
+
     public String tackle(){
         return "tackle";
     }
