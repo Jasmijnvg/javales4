@@ -8,7 +8,6 @@ WaterPokemon waterpokemon = new WaterPokemon("squirtle", 3, "watersplash","squic
 GrassPokemon grassPokemon = new GrassPokemon("Breloom", 6, "scatter toxic spores","brielooo","brown",2);
 ElectricPokemon electricPokemon = new ElectricPokemon("Pikachu",8,"thunder","Pika pika","half full","usbc");
 
-
         List<SuperPokemon> pokemonList = new ArrayList<>();
         pokemonList.add(firepokemon);
         pokemonList.add(waterpokemon);

@@ -2,7 +2,6 @@ class GrassPokemon extends SuperPokemon {
     private String color;
     private int age;
 
-
     public GrassPokemon(String name, int healthPoints, String attack, String sound, String color, int age) {
         super(name, healthPoints, attack, sound);
         this.color = color;

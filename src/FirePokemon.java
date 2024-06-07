@@ -2,7 +2,6 @@ class FirePokemon extends SuperPokemon {
     private String weakTo;
     private String strongTo;
 
-
     public FirePokemon(String name, int healthPoints, String attack, String sound, String weakTo, String strongTo) {
         super(name, healthPoints, attack, sound);
         this.weakTo = weakTo;

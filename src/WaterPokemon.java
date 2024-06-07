@@ -2,7 +2,6 @@ class WaterPokemon extends SuperPokemon {
     private String eats;
     private String drinks;
 
-
     public WaterPokemon(String name, int healthPoints, String attack, String sound, String eats, String drinks) {
         super(name, healthPoints, attack, sound);
         this.eats = eats;

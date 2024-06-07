@@ -2,7 +2,6 @@ class ElectricPokemon extends SuperPokemon {
     private String volt;
     private String charger;
 
-
     public ElectricPokemon(String name, int healthPoints, String attack, String sound, String volt, String charger) {
         super(name, healthPoints, attack, sound);
         this.volt = volt;
